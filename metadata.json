@@ -1,0 +1,7 @@
+{
+  "name": "AI & Gesture Controlled 3D System",
+  "description": "A real-time interactive 3D particle system controlled by hand gestures and AI-generated shapes.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
